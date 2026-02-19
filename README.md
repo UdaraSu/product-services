@@ -1,12 +1,5 @@
 # Product Service - Spring Boot Microservice
 
-## 📌 Module
-SE4010 – Current Trends in Software Engineering  
-DevOps Lab 03  
-Sri Lanka Institute of Information Technology (SLIIT)
-
----
-
 ## 📖 Project Overview
 
 This project demonstrates the development of a simple RESTful microservice using Spring Boot.  
