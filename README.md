@@ -27,3 +27,31 @@ Swagger (OpenAPI) is integrated to provide interactive API documentation.
 - Maven
 
 ---
+
+## 🗄️ Database Configuration (H2)
+
+The application uses an in-memory H2 database.
+
+### H2 Console Access
+
+http://localhost:8080/h2-console
+
+---
+
+## 📘 Swagger API Documentation
+
+Swagger UI can be accessed at:
+
+http://localhost:8080/swagger-ui.html
+
+Swagger allows interactive testing of all available REST endpoints.
+
+---
+
+## ▶️ How to Run the Application
+
+### Using Maven
+
+```bash
+mvn spring-boot:run
+
